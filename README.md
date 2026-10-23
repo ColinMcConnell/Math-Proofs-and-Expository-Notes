@@ -3,6 +3,9 @@
 
 Proofs and expository notes written while teaching myself undergraduate mathematics through MIT OpenCourseWare and textbooks, including multivariable calculus, linear algebra, differential equations, real analysis, complex analysis, and abstract algebra.
 
+*The mathematical arguments are my own; I used AI tools to help with LaTeX typesetting and organizing the final write-ups.*
+
+
 ## Contents
 
 ### 1. Rearrangements of the Alternating Harmonic Series
@@ -10,4 +13,3 @@ A proof that the alternating harmonic series 1 − 1/2 + 1/3 − 1/4 + ⋯ can b
 
 - [Proof (PDF)](Riemann_Rearrangement_Theorem.pdf)
 
-*The mathematical arguments are my own; I used AI tools to help with LaTeX typesetting and organizing the final write-ups.*
