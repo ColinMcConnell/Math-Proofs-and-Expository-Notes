@@ -3,7 +3,7 @@
 
 Proofs and expository notes written while teaching myself undergraduate mathematics through MIT OpenCourseWare and textbooks, including multivariable calculus, linear algebra, differential equations, real analysis, complex analysis, and abstract algebra.
 
-*The mathematical arguments are my own; I used AI tools to help with LaTeX typesetting and organizing the final write-ups.*
+*The mathematical arguments are my own; I used AI tools to help with LaTeX typesetting, organizing the final write-ups, and reviewing them for errors.*
 
 ## Contents
 
