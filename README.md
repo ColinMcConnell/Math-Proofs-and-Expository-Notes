@@ -1,5 +1,5 @@
 # Math Proofs and Expository Notes
-**Colin McConnell** · Independent study, 2026
+**Colin McConnell** · Independent study
 
 Proofs and expository notes written while teaching myself undergraduate mathematics through MIT OpenCourseWare and textbooks, including multivariable calculus, linear algebra, differential equations, real analysis, complex analysis, and abstract algebra.
 
